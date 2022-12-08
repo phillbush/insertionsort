@@ -1,0 +1,37 @@
+                Formalização da correção e complexidade
+             do algoritmo de ordenação por inserção no Coq
+
+A proposta deste projeto é formalizar a complexidade de tempo no pior
+caso e a correção do algoritmo de ordenação por inserção no assistente
+de provas Coq.   Como suporte ao desenvolvimento do projeto, sugerimos
+a leitura da Seção 6.2 das notas de aula.
+
+Objetivos:
+
+• (10 pontos) Formalizar a complexidade no pior caso para o algoritmo de
+  ordenação por inserção, ou seja, enunciar e provar o teorema que
+  estabelece uma cota superior para o número de comparações realizadas
+  durante a execução do algoritmo;
+• (10 pontos) Formalizar a correção do algoritmo de ordenação por
+  inserção, ou seja, enunciar e provar o teorema que estabelece que para
+  qualquer lista l, o algoritmo vai retornar uma permutação de l que
+  está ordenada;
+• (10 pontos) Escrever um relatório sobre o projeto.
+
+Etapas do projeto:
+
+• Formação dos grupos: O primeiro passo consiste na formação dos grupos.
+  Cada grupo pode ter até 4 pessoas. Se preferir fazer o projeto
+  sozinho, basta acessar o link e criar o seu grupo. Caso contrário,
+  primeiro combine a formação do grupo com os colegas. Em seguida,
+  apenas um participante do grupo clica no link acima e em seguida no
+  botão "Create team". Uma vez criado o grupo, os outros participantes
+  devem clicar no botão "Join" do grupo criado.
+• Desenvolva as tarefas citadas nos objetivos acima da forma como achar
+  mais adequado. A Seção 6.2 das notas de aula pode ser utilizada como
+  referência. As etapas 1 e 2 devem ser disponibilizadas no repositório
+  do grupo criado no item anterior em um arquivo com nome
+  insertionsort.v. A etapa 3, i.e. o relatório, deve ser disponibilizado
+  no mesmo repositório em um arquivo com nome insertionsort.pdf.
+
+Prazo: [2022-09-04 Sun]
